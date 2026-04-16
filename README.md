@@ -1,4 +1,5 @@
 # Semantic Territory
+Part of the Generative Engine Optimization conceptual framework.
 
 ## Definition
 
