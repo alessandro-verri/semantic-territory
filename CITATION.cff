@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you cite this conceptual model in your research or strategy, please use the following metadata."
+authors:
+- family-names: "Verri"
+  given-names: "Alessandro"
+  orcid: "https://orcid.org/0009-0006-6354-9799"
+title: "Semantic Territory: A Structural Model for Generative Engine Optimization"
+version: 1.0.0
+date-released: 2026-04-17
+url: "https://verri.pro/il-territorio-semantico-nel-geo/"
+repository-code: "https://github.com/alessandro-verri/semantic-territory"
+abstract: >-
+  A structural model within the GEO framework defining how consistency, 
+  topic clustering, and real-world alignment create an interpretable domain 
+  for AI systems. It evolves the concept of Topical Authority into a 
+  system-level meaning structure.
+keywords:
+  - "Semantic Territory"
+  - "Generative Engine Optimization"
+  - "GEO"
+  - "Topical Authority"
+  - "Information Architecture"
+  - "Content Strategy"
+  - "Entity-Relationship"
